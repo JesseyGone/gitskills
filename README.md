@@ -9,3 +9,4 @@ branch management
 
 git stash test
 
+branch cloned add this.
